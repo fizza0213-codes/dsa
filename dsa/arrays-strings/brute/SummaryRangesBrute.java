@@ -1,5 +1,4 @@
 
-
 // Time: O(n^2) Space: O(n)
 public class SummaryRangesBrute {
     public List<String> summaryRanges(int[] nums) {

@@ -4,11 +4,9 @@
 | Problem | Difficulty | LeetCode Link |
 |---|---|---|
 | Remove Duplicates from Sorted List | Easy | https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2046554854/
-https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2046559177/
- |
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/2046559177/|
 | Linked List Cycle | Easy |https://leetcode.com/problems/linked-list-cycle/submissions/2046562383/
-https://leetcode.com/problems/linked-list-cycle/submissions/2046564703/
-  |
+https://leetcode.com/problems/linked-list-cycle/submissions/2046564703/|
 | Merge Two Sorted Lists | Easy |https://leetcode.com/problems/merge-two-sorted-lists/submissions/2046567828/
 https://leetcode.com/problems/merge-two-sorted-lists/submissions/2046570125/  |
 

@@ -13,5 +13,5 @@ public int[] topKFrequent(int[] nums, int k) {
         int[] nums = {1,1,1,2,2,3};
         System.out.println(Arrays.toString(topKFrequent(nums, 2))); // [1, 2]
     }
-        
+    
 }

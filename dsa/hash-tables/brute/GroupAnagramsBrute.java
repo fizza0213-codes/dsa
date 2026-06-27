@@ -1,4 +1,4 @@
-
+// Time: O(n^2 * k)  Space: O(n)
 public class GroupAnagramsBrute {
    public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> result = new ArrayList<>();
@@ -23,6 +23,10 @@ public class GroupAnagramsBrute {
         Arrays.sort(ca);
         Arrays.sort(cb);
         return Arrays.equals(ca, cb);
+    }
+    public static void main(String[] args) {
+        GroupAnagramsBrute sol = new GroupAnagramsBrute();
+        System.out.println(sol.groupAnagrams(new String[]{"eat","tea","tan","ate","nat","bat"}));
     }
 
 }
